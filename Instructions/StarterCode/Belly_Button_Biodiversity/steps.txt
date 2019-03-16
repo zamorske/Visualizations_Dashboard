@@ -1,0 +1,20 @@
+Phase 1 - Create Files
+
+1. create test-piecharts.html 
+2. create test-charts.js
+3. in html file include script tag to test-charts.js
+
+Phase 2 - Create Chart
+
+1. go to week 15, day 1, activity 02 and review code on plot charts
+2. apply code to test-piecharts.html
+3. apply code to test-charts.js
+
+Phase 3 - Add Chart to HW
+
+1. now that you have a working pie chart, you can add it to hw code base
+2. then apply this chart to a function
+3. make sure it works when you call the function
+4. then modify function so you can dynamically pass in data
+5. log data on function call before apply to chart, to confirm the data is there
+6. apply to chart
